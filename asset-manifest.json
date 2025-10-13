@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portfolio-webistes/static/css/main.8e710079.css",
+    "main.js": "/Portfolio-webistes/static/js/main.9d79d664.js",
+    "index.html": "/Portfolio-webistes/index.html",
+    "main.8e710079.css.map": "/Portfolio-webistes/static/css/main.8e710079.css.map",
+    "main.9d79d664.js.map": "/Portfolio-webistes/static/js/main.9d79d664.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e710079.css",
+    "static/js/main.9d79d664.js"
+  ]
+}
